@@ -1,0 +1,15 @@
+# Core Computer Vision & AI
+ultralytics
+torch
+torchvision
+opencv-contrib-python
+
+# Data Processing & Math
+numpy
+pandas
+scipy
+joblib
+
+# Visualization & Utilities
+matplotlib
+tqdm
